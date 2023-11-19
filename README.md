@@ -39,11 +39,7 @@
 
 ## 🔭 I'm currently working on
 
-- 🌱 Finish two master's degree in development
-- Learn React
-- Project with Laravel
-- Wineshop/Angular
-- My CSS skill
+- 🌱 Be a good developer
 
 ## I’m interested in ...
 
